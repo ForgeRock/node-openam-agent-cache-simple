@@ -1,7 +1,7 @@
 # openam-agent-cache-simple
 Simple in-memory cache for the OpenAM Policy Agent for NodeJS
 
-Installation: `npm install openam-agent-cache-redis`
+Installation: `npm install openam-agent-cache-simple`
 
 # API Docs
 
